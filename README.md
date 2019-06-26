@@ -3,11 +3,27 @@ Cian Gannon (G00337022)
 
 https://imgur.com/a/P4pEPwA - Pictures to fill in readme
 
-## Interface:
+## Program:
 
 ![](https://imgur.com/GAjkFg1.png)
 
-*	Header
+1.	Header
+2. Display Text Area
+3. Clear Text Button
+4. Encryption Key Input Area
+5. File Name Input Area
+6.	Decryption Key Input Area
+7. Encrypt Button
+8. URL Link Input Area
+9. Decrypt Button
+10. Time Recorded Text Area
+11. Characters Encrypted/Decrypted Text Area
+12. Characters Not Encrypted/Decrypted Text Area
+
+
+
+
+
 
 As you can see above it shows what state it is currently in. It has finished Initialising Variables but is still in the Encryption process.
 
