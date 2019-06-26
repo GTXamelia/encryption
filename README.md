@@ -5,7 +5,7 @@ https://imgur.com/a/P4pEPwA - Pictures to fill in readme
 
 ## Interface:
 
-![]()
+![](https://imgur.com/GAjkFg1.png)
 
 As you can see above it shows what state it is currently in. It has finished Initialising Variables but is still in the Encryption process.
 
