@@ -1,8 +1,6 @@
 # Encryption/Decryption Project
 Cian Gannon (G00337022)
 
-https://imgur.com/a/P4pEPwA - Pictures to fill in readme
-
 ## Program:
 
 ![](https://imgur.com/GAjkFg1.png)
@@ -76,13 +74,13 @@ If the file name is left blank the user will be informed.
 
 ![](https://imgur.com/iYoxvSf.png)
 
-6.Decryption Key Input Area
+### 6.Decryption Key Input Area
 
 ![](https://imgur.com/msGOReR.png)
 
 This input box is used to decrypt a file the user wishes to enter.
 
-7.Encrypt Button
+### 7.Encrypt Button
 
 The Encrypt Button is responsible for running the Encypt.java file to encrypt files and websites that the user inputs.
 
@@ -94,13 +92,13 @@ As you see above the file called &quot;big&quot; was encrypted in 1.85 seconds a
 
 ![](https://imgur.com/bA8Dzwm.png)
 
-8.URL Link Input Area
+### 8.URL Link Input Area
 
 ![](https://imgur.com/m1KPtnL.png)
 
 The URL input area is used by the user to select a website's HTML to encrypt.
 
-9.Decypt Button
+### 9.Decypt Button
 
 ![](https://imgur.com/UFYetLw.png)
 
@@ -126,7 +124,7 @@ After:
 
 But once the process is finished it is in readable English.
 
-10.Time Taken Text Area
+### 10.Time Taken Text Area
 
 ![](https://imgur.com/1HDd0wT.png)
 
@@ -134,13 +132,13 @@ The above picture displays exactly what this text box does.
 
 It shows the calculation of how long it took to encrypt/decrypt.
 
-11. Characters Encrypted/Decrypted Text Area
+### 11. Characters Encrypted/Decrypted Text Area
 
 ![](https://imgur.com/yZc6Bh0.png)
 
 The above picture shows the Text Box in action showing how many characters could be processed successfully (a,b,c) any character that is inside the porta cypher.
 
-12. Characters Not Encrypted/Decrypted Text Area
+### 12. Characters Not Encrypted/Decrypted Text Area
 
 ![](https://imgur.com/2oNxkSP.png)
 
