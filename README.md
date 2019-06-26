@@ -7,6 +7,8 @@ https://imgur.com/a/P4pEPwA - Pictures to fill in readme
 
 ![](https://imgur.com/GAjkFg1.png)
 
+*	Header
+
 As you can see above it shows what state it is currently in. It has finished Initialising Variables but is still in the Encryption process.
 
 The text area also display errors to the user ![]()
