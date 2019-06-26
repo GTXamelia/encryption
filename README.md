@@ -1,16 +1,9 @@
-# Data Structures &amp; Algorithms
-
 # Encryption/Decryption Project
-
-# Cian Gannon
-
-# G00337022
-
-
+Cian Gannon (G00337022)
 
 # Interface:
 
- ![]()
+![]()
 
 As you can see above it shows what state it is currently in. It has finished Initialising Variables but is still in the Encryption process.
 
